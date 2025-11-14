@@ -24,3 +24,4 @@ Australian
 
 *begin github statistics*
 
+[![Zac99LOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zac99LOL)](https://github.com/anuraghazra/github-readme-stats)
