@@ -10,6 +10,7 @@ I hate semicolons.
 ---
 
 **Favourite Quote:** Good artists copy, great artists steal.
+
 **Favourite Font:** JetBrains Mono. Even if it's not meant to be monospaced.
 
 ---
