@@ -15,14 +15,6 @@ I hate semicolons.
 
 ---
 
-You can tell whether I'm being serious by whether I'm using proper punctuation and capitalisation properly.
-
----
-
-Australian
-
----
-
 *begin github statistics*
 
 [![Zac99LOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zac99LOL)](https://github.com/anuraghazra/github-readme-stats)
