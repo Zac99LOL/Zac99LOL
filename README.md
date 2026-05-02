@@ -9,5 +9,6 @@ I hate semicolons.
 
 ---
 
-[![Zac's GitHub stats](./profile/stats.svg)
-[![Zac's top languages](./profile/top-langs.svg)
+![Zac's GitHub stats](./profile/stats.svg)
+
+![Zac's top languages](./profile/top-langs.svg)
