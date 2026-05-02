@@ -9,4 +9,5 @@ I hate semicolons.
 
 ---
 
-[![Zac99LOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zac99LOL)](https://github.com/anuraghazra/github-readme-stats)
+[![Zac's GitHub stats](./profile/stats.svg)
+[![Zac's top languages](./profile/top-langs.svg)
